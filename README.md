@@ -1,4 +1,5 @@
-# kndwin: using GitHub and Netlify
+# kndwin
+Deploying using GitHub and Heroku: kndwin-fcc-timestamp.heroku.com
 
 # API Project: Timestamp Microservice for FCC
 
