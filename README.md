@@ -1,4 +1,4 @@
-# kndwin
+# kndwin: using GitHub and Netlify
 
 # API Project: Timestamp Microservice for FCC
 
